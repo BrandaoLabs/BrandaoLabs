@@ -15,7 +15,7 @@
 
 <h3 align="left">&#127757;  I live in Brazil.</h3>
 
-<h3 align="left">&#128233; Contact me @: <a href="mailto:brandao.dev0@gmail.com" target="_blank">brandao.dev0@gmail.com</h3>
+<h3 align="left">&#128233; Contact me @: <a href="mailto:labsbrandao@gmail.com" target="_blank">labsbrandao@gmail.com</h3>
 
 <h3 align="left">&#x1f4de; Contact phone number: <a href="https://bit.ly/BrandaoLabs" target="_blank">+55 21 98041-1553</h3>
 
@@ -26,7 +26,7 @@
 <h2 align="left">🌐Social media | Contact me</h2>
 
 <div align="leftr">
-  <a href="https://www.instagram.com/Dev.brandao0/" target="_blank">
+  <a href="https://www.instagram.com/labsbrandao/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="55" alt="instagram logo" />
   </a>
 
@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="55" alt="youtube logo" />
   </a>
 
-  <a href="mailto:brandao.dev0@gmail.com" target="_blank">
+  <a href="mailto:labsbrandaogmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="55" alt="gmail logo" />
   </a>
 
