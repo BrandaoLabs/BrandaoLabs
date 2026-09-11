@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.jpeg">
+  <img src="bannerGithubBrandaoLabs.jpeg">
 </p>
 
 
@@ -62,5 +62,5 @@
 <br>
 
 <p align="center">
-  <img src="banner.jpeg">
+  <img src="bannerGithubBrandaoLabs.jpeg">
 </p>
